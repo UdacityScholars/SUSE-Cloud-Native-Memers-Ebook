@@ -1,4 +1,4 @@
-# DevOps Tip 1
+# DevOps Tip 2
 
 This another useful command, that could help you clean up docker images quickly.
 
@@ -12,4 +12,4 @@ Check:
 
 `$ docker system prune --help`
 
-![Devops Tip](./img/devops-tip-1.png)
+![Devops Tip](./img/devops-tip-2.png)
