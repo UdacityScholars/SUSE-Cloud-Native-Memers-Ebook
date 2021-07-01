@@ -1,4 +1,4 @@
-# DevOps Tip 1
+# DevOps Tip 2
 
 This another useful command, that could help you clean up docker images quickly.
 
