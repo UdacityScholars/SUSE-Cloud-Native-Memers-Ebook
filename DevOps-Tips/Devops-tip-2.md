@@ -12,4 +12,4 @@ Check:
 
 `$ docker system prune --help`
 
-![Devops Tip](./img/devops-tip-1.png)
+![Devops Tip](./img/devops-tip-2.png)
