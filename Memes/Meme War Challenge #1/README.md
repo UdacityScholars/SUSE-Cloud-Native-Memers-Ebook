@@ -42,13 +42,13 @@ Verrah Otiende (`@Verrah`)
 ## 🌟 🌟 Meme War Winners 🌟 🌟
 
 After a lot of considerations and discussion, the top memes from all the submitted memes have been picked.
-The **top community favored meme award** goes to 👑 Jose Praveen (`@JosePraveen`) 👑
+The **top community favored meme award** goes to 👑 ![Jose Praveen](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/JosePraveen.png) (`@JosePraveen`)  👑
 
 
 For the **top three**, which was a hard choice to make considering the so many innovative  and most importantly funny :laughing: to select from, the following were selected
-1.	🥇 Joshua D’Cunha (`@Joshua.DCunha`) [meme]
-2.	🥈 Dinky Dudeja (`@Dinky.Dudeja`) [meme]
-3.	🥉 Eugenio Pilastro Luca (`@Eugenio`) [meme]
+1.	🥇 ![Joshua D’Cunha](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Joshua.Dcunha.jpg) (`@Joshua.DCunha`)
+2.	🥈 ![Dinky Dudeja](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Dinky.Dudeja.jpg) (`@Dinky.Dudeja`)
+3.	🥉 ![Eugenio Pilastro Luca](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Eugenio.jpg) (`@Eugenio`)
 
 
 🚩 Honorable mentions:
