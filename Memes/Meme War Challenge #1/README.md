@@ -26,7 +26,7 @@ The meme war challenge is a fun activity hosted by the #st_memers channel for th
 2.	Does the meme **inform on the various concepts learnt** in the course?
 3.	Does it make others **evaluate situations differently?**
 
-The challenge runs until `13:00:00, Monday, 28th June 2021 UTC`. You can use the **[Meme Generator]( https://imgflip.com/)**, or check the **[additional sample meme templates](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Templates)**
+The challenge runs until `13:00:00, Monday, 28th June 2021 UTC`. You can use the **[Meme Generator]( https://imgflip.com/)**, or check the **[additional sample meme templates](./Templates/)**
 
 
 ## Organizers
@@ -42,17 +42,44 @@ Verrah Otiende (`@Verrah`)
 ## 🌟 🌟 Meme War Winners 🌟 🌟
 
 After a lot of considerations and discussion, the top memes from all the submitted memes have been picked.
-The **top community favored meme award** goes to 👑 [Jose Praveen](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/JosePraveen.png) (`@JosePraveen`)  👑
+The **top community favored meme award** goes to:
 
+<p align="center">
+👑 Jose Praveen (`@JosePraveen`)👑
+</p>
+
+<p align="center">
+<img src = "Winning%20Memes/JosePraveen.png" width = 400>
+</p>
 
 For the **top three**, which was a hard choice to make considering the so many innovative  and most importantly funny :laughing: to select from, the following were selected
-1.	🥇 [Joshua D’Cunha](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Joshua.Dcunha.jpg) (`@Joshua.DCunha`)
-2.	🥈 [Dinky Dudeja](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Dinky.Dudeja.jpg) (`@Dinky.Dudeja`)
-3.	🥉 [Eugenio Pilastro Luca](https://github.com/UdacityScholars/SUSE-Cloud-Native-Memers-Ebook/tree/master/Memes/Meme%20War%20Challenge%20%231/Winning%20Memes/Eugenio.jpg) (`@Eugenio`)
 
+<p align="center">
+:one:🥇Joshua D’Cunha (`@Joshua.DCunha`)
+</p>
 
+<p align="center">
+<img src = "Winning%20Memes/Joshua.Dcunha.jpg" width = 400>
+</p>
+
+<p align="center">
+:two:🥈Dinky Dudeja (`@Dinky.Dudeja`)
+</p>
+
+<p align="center">
+<img src = "Winning%20Memes/Dinky.Dudeja.jpg" width = 400>
+</p>
+
+<p align="center">
+:three:🥉Eugenio Pilastro Luca (`@Eugenio`)
+</p>
+
+<p align="center">
+<img src = "Winning%20Memes/Eugenio.jpg" width = 400>
+</p>
+  
 🚩 Honorable mentions:
 1. 🎖️Santhosh G.S (`@Santhosh.G.S`) 
-2. 🎖️Oudarjya (`@Oudarjya`)
+2. 🎖️Oudarjya Sen Sarma  (`@Oudarjya`)
 3. 🎖️Dimitra Karamperi (`@Dimitra.Karamperi`)
 
