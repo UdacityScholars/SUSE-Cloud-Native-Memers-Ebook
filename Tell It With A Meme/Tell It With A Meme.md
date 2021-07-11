@@ -1,7 +1,5 @@
 # Tell It With A Meme
 
-## Sunday, July 4th 2021
-
 *Presenting...*
 
 **Tell It With A Meme**<br>
@@ -23,14 +21,20 @@ This series is brought to you by:
 
 _____________________
 
+## Sunday, July 4th 2021
+
 *Here's the first post of the series*<br>
 
 ***Tell It With a Meme: Architectural Trade-offs***<br>
 
 Each application architecture has a set of trade-offs that needs to be considered at the genesis of a project.<br>
-But it is also important to understand how the application will be
-maintained in the future e.g. at scale, under load, supporting multiple
+But it is also important to understand how the application will be maintained in the future e.g. at scale, under load, supporting multiple
 releases a day, etc.<br>
+
+<p align="center">
+<img src = "img/post-1-meme-2.jpg" width = 400>
+</p>
+
 The categories that are used to evaluate trade-offs are:<br>
 - <b>Development complexity:</b> The effort required to deploy and manage the application
 - <b>Scalability:</b> The ability of an application to respond to incoming traffic appropriately
@@ -39,8 +43,52 @@ The categories that are used to evaluate trade-offs are:<br>
 - <b>Operational cost:</b> The cost of resources to release the application
 - <b>Reliability:</b> The ability of an application to recover from failure and its provisions for monitoring and observability
 
-![Post 1 - Meme 1](./img/post-1-meme-1.jpg)
+<p align="center">
+<img src = "img/post-1-meme-1.jpg" width = 400>
+</p>
 
-![Post 1 - Meme 2](./img/post-1-meme-2.jpg)
+_____________________
 
+## Friday, July 9th 2021
 
+*Here's the second post of the series*<br>
+
+***Tell It With a Meme: Cloud Containers & Kubernetes***<br>
+:one:
+Deploying microservices on Kubernetes is complicated. One needs to understand what's happening with every component inside of the cluster to really service it. It is critical to consider resources for automatically collecting logs/metrics and understanding what’s happening on Kubernetes. This involves a combination of configuring the runtime logging setting and retention of a particular cluster.
+
+<p align="center">
+<img src = "img/1a.jpg" width = 400>
+</p>
+
+:two:
+Kubernetes pod security policy is a cluster-level resource that controls security-sensitive aspects of pod specification. The resource defines a set of conditions for a pod to be accepted into the systems.
+
+<p align="center">
+<img src = "img/2a.jpg" width = 400>
+</p>
+
+:three:
+The most powerful things about Kubernetes architecture is how it manages the network. The Cluster IP does not expose services externally, rather it provides an IP to communicate internally within the cluster. In case of some sort of vulnerability that allows access to one of the pods, with the right policy, the vulnerability will not penetrate the entire network
+
+<p align="center">
+<img src = "img/3a.jpg" width = 400>
+</p>
+
+:four:
+ROLES OF THE MASTER NODE
+
+- Maintaining the desired state of the cluster
+- Indicating a set of processes used to manage the cluster
+- Contains info, API, scheduler, and replication controller
+
+ROLES OF THE WORKER NODE
+
+Also known as the minion, it:
+- Contains the services for running the pods managed by the master
+- Contains kubelet, services, pods and containers
+- Offers services including container runtime, kubelet and kube-proxy
+
+<p align="center">
+<img src = "img/4.jpg" width = 400>
+</p>
