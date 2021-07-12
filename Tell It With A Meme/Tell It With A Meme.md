@@ -18,5 +18,3 @@ This series is brought to you by:
 @Vedita.Kamat<br>
 @Verrah<br>
 @Vijay.Bhargav.Reddy<br>
-
-_____________________
